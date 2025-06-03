@@ -11,12 +11,12 @@
   "license": "AGPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/initialencounter/2022-12-24.git"
+    "url": "git+https://github.com/Privoce/koishi-plugin-adapter-voce.git"
   },
   "bugs": {
-    "url": "https://github.com/initialencounter/2022-12-24/issues"
+    "url": "https://github.com/Privoce/koishi-plugin-adapter-voce/issues"
   },
-  "homepage": "https://github.com/initialencounter/2022-12-24/tree/neat/plugins/Adapter/adapter-voce#readme",
+  "homepage": "https://github.com/Privoce/koishi-plugin-adapter-voce",
   "keywords": [
     "chatbot",
     "koishi",

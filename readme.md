@@ -1,12 +1,12 @@
 # adapter-voce
 
-[koishi-plugin-adapter-voce](https://github.com/initialencounter/2022-12-24/tree/neat/plugins/Adapter/adapter-voce)
+[koishi-plugin-adapter-voce](https://github.com/Privoce/koishi-plugin-adapter-voce)
 
 [![npm](https://img.shields.io/npm/v/koishi-plugin-adapter-voce?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-adapter-voce)
 
 VoceChat 适配器
 
-欢迎 [PR](https://github.com/initialencounter/2022-12-24/pulls) !
+欢迎 [PR](https://github.com/Privoce/koishi-plugin-adapter-voce/pulls) !
 
 # Feature
 
@@ -27,7 +27,7 @@ VoceChat 适配器
 - [x] at
 - [x] 引用回复
 
-# 内部 API 参考 [点我！](https://github.com/initialencounter/2022-12-24/blob/neat/plugins/Adapter/adapter-voce/src/test.ts)
+# 内部 API 参考 [点我！](https://github.com/Privoce/koishi-plugin-adapter-voce/blob/main/src/test.ts)
 
 # [VoceChat 文档](https://doc.voce.chat/zh-cn/)
 
